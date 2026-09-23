@@ -1,0 +1,6 @@
+Dashboard Layout:
+1. Top KPIs (Total Sales, Total Orders, AOV, Active Customers)
+2. Monthly Revenue Line Chart
+3. Top 10 Best Sellers Bar Chart
+4. Geographic Sales Map
+5. RFM Segment Donut Chart
